@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @bishalder
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning C programming.
+- 👀 A coding enthusiast
+- 🌱 Currently learning Python programming.
 - 💞️ I’m looking to collaborate on ...
-- 📫 mail me - bishalll256@gmail.com
+- 📫 mail me - halderbishal2002@gmail.com
 
 <!---
 bishalder/bishalder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
